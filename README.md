@@ -30,7 +30,7 @@ Este é o repositório do projeto Spider-Verse, desenvolvido durante uma live no
 
 ## 🎨 Protótipo do projeto
 
-[Clique aqui](https://www.figma.com/file/tdCIzlGKVdZJmKSaV99iDU/Landpage---SpiderVerse?type=design&node-id=0%3A1&t=rZMG8Ic2KXC3Dwfn-1) para ir ao protótipo do projeto no Figma.
+[Clique aqui](https://www.figma.com/file/rgHS7o5MyTAxk9vCRH5YhL/Landpage-%2B-Mobile---SpiderVerse?type=design&node-id=0%3A1&mode=design&t=5SFRyEJyIbhD90Sl-1) para ir ao protótipo do projeto no Figma.
 
 ## 🗄️ Estrutura de pastas
 
